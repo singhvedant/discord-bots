@@ -1,9 +1,9 @@
 You will need to replace the following in both codes:
 
-- <API KEY> with your OpenAI API key
-- <CHANNEL ID> with the ID of the Discord channel you want the bot to post in
-- <WEBHOOK URL> with the URL of the webhook you have set up in the Discord channel
-- <BOT TOKEN> with the token of your Discord bot.
+- &lt;API KEY> with your OpenAI API key
+- &lt;CHANNEL ID> with the ID of the Discord channel you want the bot to post in
+- &lt;WEBHOOK URL> with the URL of the webhook you have set up in the Discord channel
+- &lt;BOT TOKEN> with the token of your Discord bot.
 
 You will also need to import the necessary libraries at the beginning of both codes. For the first code, you will need to import discord, Webhook, AsyncWebhookAdapter, requests, and datetime. For the second code, you will need to import discord, Webhook, AsyncWebhookAdapter, and requests.
 
@@ -25,4 +25,4 @@ Once you have installed all the necessary libraries and have Python installed on
 
 For example, if you have saved the code in a file called poembot.py, you can run it by entering python poembot.py in a terminal or command prompt.
 
-Make sure to replace the placeholders <API KEY>, <CHANNEL ID>, <WEBHOOK URL>, and <BOT TOKEN> with the appropriate values before running the code.
+Make sure to replace the placeholders<Code> &lt;API KEY>, &lt;CHANNEL ID>, &lt;WEBHOOK URL>, and &lt;BOT TOKEN> </Code>with the appropriate values before running the code.
