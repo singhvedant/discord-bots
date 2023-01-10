@@ -17,7 +17,7 @@ Before running the first code, you will need to install the following libraries:
 - discord: The main Discord API library for Python. You can install it using pip: pip install discord
 Webhook and AsyncWebhookAdapter: Libraries for interacting with Discord webhooks. You can install them using pip: pip install Webhook AsyncWebhookAdapter
 - requests: A library for making HTTP requests in Python. You can install it using pip: pip install requests
-- - datetime: A Python library for working with dates and times. It is a built-in library, so you don't need to install it separately.
+- datetime: A Python library for working with dates and times. It is a built-in library, so you don't need to install it separately.
 To install these libraries, open a terminal or command prompt and enter the command pip install <library name>. For example, to install the discord library, you would enter pip install discord. Repeat this process for each of the libraries listed above.
 
 
